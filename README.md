@@ -97,3 +97,4 @@ Proyek ini sudah dirancang **100% kompatibel dengan Cloudflare Pages & Functions
 - **YouTube Engine**: InnerTube Web Remix Client + YouTube IFrame API
 - **Lyrics Engine**: YouTube Music InnerTube + LRCLIB Synced Lyrics
 "# daymusic" 
+"# daymusic" 
